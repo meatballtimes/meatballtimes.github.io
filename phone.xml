@@ -1,0 +1,4 @@
+<Response>
+    <Say>Your wish has been granted. Welcome to Fractal.</Say>
+    <Play digits="9" />
+</Response>
